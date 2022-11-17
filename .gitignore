@@ -1,3 +1,5 @@
-DI-engine
-venv
+data
+models
+trading_venv
+train_folder
 .ipynb_checkpoints
