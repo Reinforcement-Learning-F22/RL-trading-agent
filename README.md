@@ -10,4 +10,8 @@
 
 **Then you can select `trading_venv` as a kernel.**
 
-**Link for the trained models:**
+**Trained models are in the `models` folder**
+
+**train_script.py** was used to train different models.
+
+Main file of the project - **RL_project_Akhmetzhanov_Jerome.ipynb**
