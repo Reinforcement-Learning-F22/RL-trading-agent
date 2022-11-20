@@ -8,4 +8,6 @@
 
 ```ipython kernel install --user --name=trading_venv```
 
-# Then you can select `trading_venv` as a kernel.
+**Then you can select `trading_venv` as a kernel.**
+
+**Link for the trained models:**
